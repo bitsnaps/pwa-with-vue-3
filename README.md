@@ -27,3 +27,11 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Add PWA plugin
+Using Vue-CLI:
+```
+vue add pwa
+```
+
+Source: https://www.vuemastery.com/courses/progressive-web-apps-vue-3
