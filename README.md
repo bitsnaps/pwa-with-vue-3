@@ -34,4 +34,8 @@ Using Vue-CLI:
 vue add pwa
 ```
 
+## Config WPA
+Create a `vue.config.js` file to configure the pwa files (like: `manifest.json`).
+More options at [vue-cli doc](https://cli.vuejs.org/core-plugins/pwa.html).
+
 Source: https://www.vuemastery.com/courses/progressive-web-apps-vue-3
